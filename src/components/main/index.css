@@ -1,0 +1,17 @@
+@media screen and (max-width:1280px) {
+    .ts {
+        width: 980px;
+    }
+}
+
+.ts {
+    width: 1163px;
+    margin: 0 auto;
+    background-color: bisque;
+}
+
+.slider {
+    height: 260px;
+    background-color: white;
+    padding: 10px;
+}
